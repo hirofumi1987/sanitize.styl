@@ -1,4 +1,4 @@
-# sanitize.css
+# sanitize.styl
 
 Render elements consistently. Style with best practices.
 
