@@ -1,0 +1,27 @@
+{
+  "name": "sanitize.styl",
+  "version": "0.1.0",
+  "description": "Stylus version of sanitize.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hirofumi1987/sanitize.styl.git"
+  },
+  "author": "hirofumi1987",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/hirofumi1987/sanitize.styl/issues"
+  },
+  "homepage": "https://github.com/hirofumi1987/sanitize.styl",
+  "devDependencies": {
+    "autoprefixer-core": "^5.1.8",
+    "gulp": "^3.8.11",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-postcss": "^5.1.0",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-stylus": "^2.0.1"
+  }
+}
